@@ -1,10 +1,6 @@
-<h1 align="center">你好，我是 Luochen</h1>
-
+<h1 align="center">你好，我是 洛尘</h1>
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=22&pause=1000&center=true&vCenter=true&width=560&lines=欢迎来到我的+GitHub+主页;记录学习，持续构建;把想法做成可用的作品"
-    alt="打字机效果"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;size=22&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5;%E8%AE%B0%E5%BD%95%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%9E%84%E5%BB%BA;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E5%8F%AF%E7%94%A8%E7%9A%84%E4%BD%9C%E5%93%81" alt="Typing SVG" />
 </p>
 
 ## 关于我
