@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>你好，我是洛尘</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=BFDBFE&amp;background=0B1220&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=72&amp;lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5;%E8%AE%B0%E5%BD%95%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%8C%81%E7%BB%AD%E6%9E%84%E5%BB%BA;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E5%8F%AF%E7%94%A8%E7%9A%84%E4%BD%9C%E5%93%81;%E7%9B%B8%E4%BF%A1%E5%A5%87%E8%BF%B9%E7%9A%84%E4%BA%BA%EF%BC%8C%E6%9C%AC%E8%BA%AB%E5%92%8C%E5%A5%87%E8%BF%B9%E4%B8%80%E6%A0%B7%E4%BA%86%E4%B8%8D%E8%B5%B7%EF%BC%81" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="./assets/header.svg" alt="你好，我是洛尘，欢迎来到我的 GitHub 主页" width="100%" />
+</p>
 
 ## 关于我
 
