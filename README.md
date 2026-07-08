@@ -1,11 +1,11 @@
 <div style="
-    background: linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0.05) 100%);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: linear-gradient(135deg, rgba(100, 160, 255, 0.18) 0%, rgba(30, 80, 180, 0.08) 100%);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid rgba(150, 200, 255, 0.25);
     border-radius: 16px;
     padding: 30px 20px;
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(20, 60, 160, 0.2);
     max-width: 620px;
     margin: 20px auto;
 ">
@@ -17,10 +17,10 @@
 
 ## 关于我
 
-- 我正在学习全栈开发和人工智能相关技术。
-- 我喜欢做小而实用的工具，也会整理学习笔记。
-- 我关注代码质量、项目结构和实际使用体验。
-- 我使用 GitHub 记录项目、复盘问题、沉淀知识。
+- 一名持续深耕编程与项目开发的学习者，热爱把脑洞落地为可运行的程序 
+- 主攻方向：Web 前端、桌面应用、游戏开发、后端基础、数据库设计 
+- 习惯：坚持复盘学习笔记，维护开源小项目，乐于拆解问题与优化代码 
+- 人生信条：相信奇迹的人，本身和奇迹一样了不起 
 
 ## 技术栈
 
@@ -41,3 +41,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luochen036&theme=tokyo-night&hide_border=true" alt="GitHub 活动图" />
 </p>
 
+## 日常碎碎念 
+
+- 保持输入，坚持输出；
+- 不急不躁，稳步前行；
+-  凡心所向，素履以往。 
