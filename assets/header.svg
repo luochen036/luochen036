@@ -1,0 +1,48 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="bannerClip">
+      <rect width="1200" height="420" rx="28"/>
+    </clipPath>
+    <clipPath id="typingClip">
+      <rect x="0" y="0" width="0" height="56">
+        <animate attributeName="width" values="0;560;560;0" keyTimes="0;0.55;0.82;1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <linearGradient id="overlay" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111f" stop-opacity="0.76"/>
+      <stop offset="0.52" stop-color="#0f172a" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0.7"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+    <image href="bg.jpg" width="1200" height="420" preserveAspectRatio="xMidYMid slice"/>
+    <rect width="1200" height="420" fill="url(#overlay)"/>
+    <rect x="34" y="34" width="1132" height="352" rx="24" fill="#020617" fill-opacity="0.2" stroke="#ffffff" stroke-opacity="0.22"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <text x="600" y="158" text-anchor="middle" fill="#ffffff" font-size="54" font-weight="700" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC',Arial,sans-serif">
+      你好，我是洛尘
+    </text>
+
+    <g transform="translate(320 210)">
+      <g clip-path="url(#typingClip)">
+        <text x="0" y="40" fill="#dbeafe" font-size="30" font-weight="500" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC',Arial,sans-serif">
+          欢迎来到我的 GitHub 主页
+        </text>
+      </g>
+      <rect x="0" y="5" width="3" height="42" rx="1.5" fill="#93c5fd">
+        <animate attributeName="x" values="0;560;560;0" keyTimes="0;0.55;0.82;1" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0;1" dur="0.8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <text x="600" y="306" text-anchor="middle" fill="#bfdbfe" font-size="24" font-weight="500" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC',Arial,sans-serif">
+      相信奇迹的人，本身和奇迹一样了不起
+    </text>
+  </g>
+</svg>
